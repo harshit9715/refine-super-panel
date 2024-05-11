@@ -1,4 +1,3 @@
-// @ts-ignore
 import KanbanColumnSkeleton from "@/components/skeleton/kanban";
 import ProjectCardSkeleton from "@/components/skeleton/project-card";
 import { KanbanAddCardButton } from "@/components/tasks/kanban/add-card-button";
